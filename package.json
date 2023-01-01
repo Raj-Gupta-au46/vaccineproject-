@@ -1,0 +1,26 @@
+{
+  "name": "vaccineproject-",
+  "version": "1.0.0",
+  "description": "you can select the slot of vaccine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj-Gupta-au46/vaccineproject-.git"
+  },
+  "author": "Raj Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raj-Gupta-au46/vaccineproject-/issues"
+  },
+  "homepage": "https://github.com/Raj-Gupta-au46/vaccineproject-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20"
+  }
+}
